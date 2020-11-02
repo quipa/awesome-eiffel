@@ -178,6 +178,7 @@ Below is a curated list of awesome Eiffel and Eiffel libraries, resources and to
 * [Comparing Eiffel and Java](https://www.cs.rit.edu/~jeh/eiffel/JvsE.html) - Comparing two OO languages.
 * [Java & Eiffel](http://se.inf.ethz.ch/courses/2013a_spring/JavaCSharp/lectures/Lecture_11_A_eiffel_java_Cs.pdf) - An objective personal assessment.
 * [Applying “Design by Contract” ](http://se.ethz.ch/~meyer/publications/computer/contract.pdf) - Building software components on the basis of carefully designed contracts.
+* [Touch of Class](http://touch.ethz.ch/) An Introduction to Programming and Software Enginnering using Eiffel
 * [Eiffel on YouTube](https://www.youtube.com/user/EiffelLanguage/playlists) - A selection of Eiffel related YouTube playlists.
 * [Eiffel on GitHub](https://github.com/search?l=Eiffel&q=eiffel&type=Repositories) - Eiffel repositories on GitHub.
 
